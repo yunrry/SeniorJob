@@ -1,0 +1,17 @@
+seniorjob-79e41-firebase-adminsdk-x9mtq-228e8b4d8e.json filter=lfs diff=lfs merge=lfs -text
+tsconfig.json filter=lfs diff=lfs merge=lfs -text
+app.json filter=lfs diff=lfs merge=lfs -text
+jest.config.js filter=lfs diff=lfs merge=lfs -text
+node_modules filter=lfs diff=lfs merge=lfs -text
+yarn.lock filter=lfs diff=lfs merge=lfs -text
+firebaseConfig.ts filter=lfs diff=lfs merge=lfs -text
+package.json filter=lfs diff=lfs merge=lfs -text
+App.tsx filter=lfs diff=lfs merge=lfs -text
+babel.config.js filter=lfs diff=lfs merge=lfs -text
+eas.json filter=lfs diff=lfs merge=lfs -text
+package-lock.json filter=lfs diff=lfs merge=lfs -text
+python filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+index.js filter=lfs diff=lfs merge=lfs -text
+ios filter=lfs diff=lfs merge=lfs -text
+metro.config.js filter=lfs diff=lfs merge=lfs -text
